@@ -1,0 +1,10 @@
+{
+	"db": {
+		"dialect": "",
+		"host": "",
+		"port": 0,
+		"username": "",
+		"password": "",
+		"database": "d_guardian"
+	}
+}
